@@ -1,0 +1,263 @@
+Crash ID,Agency,Crash Date,City,Street,Crash Year,Crash Day,Crash Hour,Road Conditions,Crash Circumstances,Crash Role,Injury,Seatbelt,Gender,Age,GeoLocation,Count
+148330,VSP - A2 St. Albans,06/01/2014,Fletcher,TOWN ROAD 0028,2014,Sunday,15:00,Other - Explain in Narrative,Under the influence of medication/drugs/alcohol,Driver/Owner,Fatality,Yes,Male,60,"(44.65999, -72.92097)",1
+102989,VSP - C3 Shaftsbury,07/02/2010,Searsburg,VT-9,2010,Friday,16:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,88,"(42.89642119, -73.00020225)",1
+152990,VSP - A1 Williston,11/02/2014,Williston,I-89,2014,Sunday,6:00,Unknown,Other improper action,Driver/Owner,Fatality,No,Male,52,"(73.03828, -44.43066)",1
+145529,VSP - D3 Royalton,01/15/2014,Rochester,VT-100,2014,Wednesday,9:00,None,,Pedestrian,Fatality,No,Male,87,"(43.87355, -72.80814)",1
+122206,VSP - D3 Royalton,01/15/2012,Bridgewater,US-4,2012,Sunday,12:00,None,No improper driving,Driver,Fatality,No,Male,56,"(43.60312, -72.73956)",1
+122206,VSP - D3 Royalton,01/15/2012,Bridgewater,US-4,2012,Sunday,12:00,None,No improper driving,Passenger,Fatality,No,Male,10,"(43.60312, -72.73956)",1
+103044,VSP - D3 Royalton,06/04/2010,Hartland,US-5,2010,Friday,22:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver,Fatality,No,Male,21,"(43.79216463, -72.26283125)",1
+126705,VSP - A3 Middlesex,06/26/2012,Fayston,VT-17,2012,Tuesday,20:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,Yes,Male,32,"(44.18711, -72.87903)",1
+106658,VSP - C2 New Haven,10/04/2010,Ferrisburgh,US-7,2010,Monday,8:00,None,Failed to yield right of way,Driver/Owner,Fatality,Yes,Female,68,"(44.15282091, -73.04536897)",1
+162275,VSP - D3 Royalton,08/17/2015,Norwich,I-91,2015,Monday,15:00,None,,Pedestrian,Fatality,No,Male,54,"(43.73449, -72.27457)",1
+146074,VSP - C3 Shaftsbury,02/11/2014,Sandgate,TOWN ROAD 0002,2014,Tuesday,15:00,None,Failure to keep in proper lane,Driver,Fatality,No,Female,26,"(43.15402, -73.21147)",1
+159594,VSP - C3 Shaftsbury,05/24/2015,Woodford,VT-9,2015,Sunday,16:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,42,"(42.87866, -73.11672)",1
+137908,VSP - B1 St. Johnsbury,05/18/2013,Lyndon,VT-122,2013,Saturday,14:00,Shoulders (none- low- soft- high),Failure to keep in proper lane,Passenger,Fatality,No,Female,84,"(44.56298, -72.05734)",1
+159594,VSP - C3 Shaftsbury,05/24/2015,Woodford,VT-9,2015,Sunday,16:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Female,41,"(42.87866, -73.11672)",1
+157318,VSP - B1 St. Johnsbury,01/23/2015,St. Johnsbury,I-91,2015,Friday,20:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,No,Male,29,"(44.47337, -72.02472)",1
+157318,VSP - B1 St. Johnsbury,01/23/2015,St. Johnsbury,I-91,2015,Friday,20:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Passenger,Fatality,No,Male,37,"(44.47337, -72.02472)",1
+160147,VSP - A2 St. Albans,05/22/2015,Georgia,MinCollector,2015,Friday,23:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver/Owner,Fatality,No,Male,20,"(44.75593, -73.15746)",1
+179274,VSP - D1 Rockingham (VOID),03/06/2016,Athens,MinCollector,2016,Sunday,6:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,31,"(43.11655, -72.5714)",1
+163908,VSP - B2 Derby,09/28/2015,Lemington,VT-102,2015,Monday,12:00,None,Driving too fast for conditions,Driver,Fatality,Yes,Male,43,"(44.85924, -71.55187)",1
+146806,VSP - C1 Rutland,01/26/2014,Benson,VT-22A,2014,Sunday,15:00,None,Failed to yield right of way,Passenger,Fatality,No,Male,48,"(43.67164, -73.28931)",1
+135192,VSP - A2 St. Albans,04/27/2013,Fairfax,FAS 0280,2013,Saturday,11:00,None,Operating defective equipment,Passenger,Fatality,No,Female,21,"(44.66813, -72.97553)",1
+125373,VSP - A1 Williston,05/29/2012,Colchester,I-89,2012,Tuesday,10:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver/Owner,Fatality,No,Female,60,"(44.51526, -73.19153)",1
+134268,VSP - C2 New Haven,04/03/2013,Addison,VT-17,2013,Wednesday,16:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,54,"(44.06761, -73.38269)",1
+178236,VSP - A3 Middlesex,05/11/2016,East Montpelier,VT-14,2016,Wednesday,13:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver/Owner,Fatality,No,Male,42,"(44.23876, -72.48916)",1
+109612,VSP - A3 Middlesex,12/04/2010,Waterbury,I-89,2010,Saturday,18:00,Road Surface Condition(wet- icy- snow- slush- etc),Under the influence of medication/drugs/alcohol,Passenger,Fatality,No,Male,20,"(44.36139382, -72.80556393)",1
+155637,VSP - A1 Williston,12/29/2014,Cambridge,VT-15,2014,Monday,5:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,54,"(44.64818, -72.87196)",1
+119400,VSP - B3 Bradford,11/20/2011,Bradford,I-91,2011,Sunday,14:00,None,Unknown,Driver,Fatality,No,Female,18,"(43.98596, -72.13374)",1
+113201,VSP - A2 St. Albans,06/28/2011,Georgia,MinCollector,2011,Tuesday,5:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,47,"(44.69795, -73.1066)",1
+136624,VSP - D3 Royalton,06/16/2013,Stockbridge,VT-107,2013,Sunday,17:00,None,Fatigued- asleep,Passenger,Fatality,No,Female,91,"(43.79225, -72.67585)",1
+150423,VSP - A1 Williston,09/02/2014,Milton,I-89,2014,Tuesday,21:00,Road Surface Condition(wet- icy- snow- slush- etc),Swerving or avoiding due to wind- slippery surface- vehicle- object- non-motorist in roadway etc,Driver/Owner,Fatality,Yes,Male,79,"(73.16196, -44.61811)",1
+110154,VSP - C2 New Haven,01/15/2011,Ferrisburgh,US-7,2011,Saturday,23:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Passenger,Fatality,No,Female,56,"(44.24286099, -73.22988578)",1
+177909,VSP - A2 St. Albans,04/24/2016,Alburg,VT-78,2016,Sunday,15:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,59,"(44.96963, -73.2661)",1
+105799,VSP - B2 Derby,09/17/2010,Morgan,TOWN ROAD 0002,2010,Friday,23:00,None,Driving too fast for conditions,Driver,Fatality,No,Male,18,"(44.915826, -72.04778013)",1
+105799,VSP - B2 Derby,09/17/2010,Morgan,TOWN ROAD 0002,2010,Friday,23:00,None,Driving too fast for conditions,Passenger,Fatality,No,Male,17,"(44.915826, -72.04778013)",1
+139368,VSP - B2 Derby,08/30/2013,Westmore,VT-5A,2013,Friday,19:00,None,No improper driving,Driver,Fatality,No,Male,37,"(44.74935, -72.05212)",1
+146284,VSP - A3 Middlesex,01/29/2014,Calais,VT-14,2014,Wednesday,10:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,73,"(44.34338, -72.44253)",1
+142986,VSP - B2 Derby,12/07/2013,Irasburg,US-5,2013,Saturday,20:00,Other - Explain in Narrative,Disregarded traffic signs- signals- markings,Driver,Fatality,No,Male,29,"(44.84904, -72.26277)",1
+123591,VSP - B1 St. Johnsbury,04/15/2012,Barnet,US-5,2012,Sunday,17:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,21,"(44.36382, -72.0437)",1
+169346,VSP - A3 Middlesex,09/16/2012,Orange,TOWN ROAD 0026,2012,Sunday,15:00,None,Unknown,Driver,Fatality,No,Male,62,,1
+158289,VSP - A1 Williston,04/04/2015,Colchester,I-89,2015,Saturday,17:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Female,18,"(44.54201, -73.19787)",1
+115114,VSP - C3 Shaftsbury,08/07/2011,Shaftsbury,TOWN ROAD 0007,2011,Sunday,19:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,30,"(42.96347, -73.27307)",1
+123505,VSP - C3 Shaftsbury,05/04/2012,Sunderland,US-7,2012,Friday,5:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,71,"(43.10722, -73.09086)",1
+144324,VSP - D3 Royalton,11/23/2013,Randolph,I-89,2013,Saturday,16:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Passenger,Fatality,No,Male,21,"(43.98011, -72.62732)",1
+112105,VSP - D2 Brattleboro (VOID),05/01/2011,Guilford,US-5,2011,Sunday,22:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver/Owner,Fatality,No,Male,35,"(42.77470613, -72.56695152)",1
+115126,VSP - D3 Royalton,08/21/2011,Randolph,MinCollector,2011,Sunday,16:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,49,"(43.97726, -72.61897)",1
+117774,VSP - A3 Middlesex,08/26/2011,East Montpelier,US-2,2011,Friday,20:00,None,Driving too fast for conditions,Driver/Owner,Fatality,No,Male,26,"(44.25864, -72.50133)",1
+117836,VSP - D1 Rockingham (VOID),10/31/2011,Cavendish,VT-103,2011,Monday,11:00,None,Distracted,Driver,Fatality,Yes,Male,18,"(43.3762, -72.63499)",1
+126027,VSP - B1 St. Johnsbury,07/28/2012,Barnet,I-91,2012,Saturday,18:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,46,"(44.31875, -72.03898)",1
+184279,VSP - A2 St. Albans,08/05/2016,South Hero,US-2,2016,Friday,14:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,56,,1
+184342,VSP - D1 Rockingham (VOID),05/22/2016,Westminster,Unknown,2016,Sunday,19:00,Other - Explain in Narrative,Driving too fast for conditions,Passenger,Fatality,No,Female,23,"(43.10555, -72.5166)",1
+128132,VSP - B2 Derby,09/07/2012,Irasburg,VT-58,2012,Friday,5:00,None,Driving too fast for conditions,Driver/Owner,Fatality,No,Male,35,"(44.8157, -72.29594)",1
+114894,VSP - B3 Bradford,08/21/2011,Bradford,I-91,2011,Sunday,17:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,65,"(43.99815, -72.13061)",1
+131617,VSP - D3 Royalton,01/25/2013,Hartland,I-91,2013,Friday,13:00,None,Fatigued- asleep,Driver/Owner,Fatality,Yes,Male,82,"(43.61633, -72.3475)",1
+143279,VSP - C2 New Haven,12/17/2013,Addison,VT-22A,2013,Tuesday,18:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,46,"(44.10085, -73.29704)",1
+129060,VSP - B2 Derby,07/21/2012,Coventry,I-91,2012,Saturday,,None,Failure to keep in proper lane,Driver,Fatality,No,Female,23,"(44.89215, -72.17268)",1
+112188,VSP - B2 Derby,05/22/2011,Irasburg,VT-58,2011,Sunday,6:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,20,"(44.80413, -72.25534)",1
+151710,VSP - A3 Middlesex,06/29/2014,Woodbury,VT-14,2014,Sunday,9:00,None,Failure to keep in proper lane,Driver,Fatality,Yes,Male,52,"(44.45477, -72.41993)",1
+164098,VSP - A2 St. Albans,11/05/2015,Enosburg,TOWN ROAD 0008,2015,Thursday,2:00,None,Exceeded authorized speed limit,Driver,Fatality,Yes,Female,30,"(44.90837, -72.81668)",1
+137577,VSP - D2 Brattleboro (VOID),07/12/2013,Marlboro,VT-9,2013,Friday,15:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,73,"(42.86329, -72.7393)",1
+137577,VSP - D2 Brattleboro (VOID),07/12/2013,Marlboro,VT-9,2013,Friday,15:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Female,72,"(42.86329, -72.7393)",1
+137637,VSP - D1 Rockingham (VOID),06/21/2013,Weathersfield,VT-131,2013,Friday,20:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Female,33,"(43.40066, -72.50941)",1
+112245,VSP - C1 Rutland,03/18/2011,Clarendon,MinCollector,2011,Friday,0:00,None,Failure to keep in proper lane,Driver,Fatality,Yes,Male,18,"(43.57320682, -72.95140853)",1
+112245,VSP - C1 Rutland,03/18/2011,Clarendon,MinCollector,2011,Friday,0:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Male,19,"(43.57320682, -72.95140853)",1
+133762,VSP - C1 Rutland,12/28/2012,Mendon,US-4,2012,Friday,17:00,None,,Pedestrian,Fatality,No,Female,45,"(43.65814, -72.87136)",1
+129675,VSP - D3 Royalton,10/06/2012,Hartford,I-91,2012,Saturday,2:00,None,,Pedestrian,Fatality,No,Male,24,"(43.40554, -72.18558)",1
+152530,VSP - A2 St. Albans,10/08/2014,Alburg,US-2,2014,Wednesday,10:00,Road Surface Condition(wet- icy- snow- slush- etc),Failed to yield right of way,Driver/Owner,Fatality,No,Female,83,"(44.95988, -73.277)",1
+127710,VSP - B2 Derby,08/05/2012,Troy,VT-105,2012,Sunday,9:00,None,No improper driving,Driver/Owner,Fatality,Yes,Male,82,"(44.98144, -72.41183)",1
+127710,VSP - B2 Derby,08/05/2012,Troy,VT-105,2012,Sunday,9:00,None,No improper driving,Passenger,Fatality,No,Female,76,"(44.98144, -72.41183)",1
+154959,VSP - A2 St. Albans,12/24/2014,Berkshire,VT-105,2014,Wednesday,15:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,47,"(44.96331, -72.69176)",1
+175945,VSP - A3 Middlesex,03/07/2016,Cabot,US-2,2016,Monday,13:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,Yes,Male,69,"(44.36358, -72.31785)",1
+116355,VSP - A3 Middlesex,08/09/2011,Marshfield,US-2,2011,Tuesday,15:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,61,"(44.33485, -72.37466)",1
+141398,VSP - D3 Royalton,09/25/2013,Hancock,VT-125,2013,Wednesday,13:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Male,45,"(43.92715, -72.92906)",1
+141408,VSP - A3 Middlesex,10/06/2013,Berlin,I-89,2013,Sunday,16:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,Yes,Male,23,"(44.1799, -72.5755)",1
+141409,VSP - A3 Middlesex,08/01/2013,Orange,TOWN ROAD 0026,2013,Thursday,3:00,None,Under the influence of medication/drugs/alcohol,Driver/Owner,Fatality,No,Male,34,"(44.12868, -72.40807)",1
+141409,VSP - A3 Middlesex,08/01/2013,Orange,TOWN ROAD 0026,2013,Thursday,3:00,None,Under the influence of medication/drugs/alcohol,Passenger,Fatality,No,Female,41,"(44.12868, -72.40807)",1
+141408,VSP - A3 Middlesex,10/06/2013,Berlin,I-89,2013,Sunday,16:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Passenger,Fatality,No,Male,21,"(44.1799, -72.5755)",1
+112791,VSP - B1 St. Johnsbury,06/01/2011,St. Johnsbury,US-5,2011,Wednesday,7:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver,Fatality,No,Female,24,"(44.48424, -72.01305)",1
+104921,VSP - B2 Derby,09/02/2010,Troy,VT-105,2010,Thursday,13:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,69,"(44.98618113, -72.36285071)",1
+124801,VSP - B2 Derby,07/01/2012,Maidstone,VT-102,2012,Sunday,13:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,73,"(44.54604, -71.58472)",1
+176380,VSP - A2 St. Albans,12/05/2015,Highgate,VT-78,2015,Saturday,16:00,None,,Pedestrian,Fatality,No,Male,54,"(44.9259, -72.96946)",1
+104970,VSP - A2 St. Albans,08/22/2010,Georgia,I-89,2010,Sunday,22:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,Yes,Male,51,"(44.73634369, -73.07947254)",1
+162401,VSP - B3 Bradford,08/29/2015,Vershire,VT-113,2015,Saturday,12:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,68,"(43.96161, -72.28789)",1
+106888,VSP - D3 Royalton,10/23/2010,Royalton,VT-110,2010,Saturday,16:00,None,No improper driving,Passenger,Fatality,No,Female,46,"(43.83155321, -72.51337811)",1
+162047,VSP - B2 Derby,07/16/2015,Craftsbury,VT-14,2015,Thursday,17:00,None,Failed to yield right of way,Driver/Owner,Fatality,No,Male,92,"(44.65252, -72.40584)",1
+119455,VSP - A3 Middlesex,12/08/2011,Moretown,VT-100B,2011,Thursday,12:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,72,"(44.28267, -72.73511)",1
+119455,VSP - A3 Middlesex,12/08/2011,Moretown,VT-100B,2011,Thursday,12:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Male,2,"(44.28267, -72.73511)",1
+119455,VSP - A3 Middlesex,12/08/2011,Moretown,VT-100B,2011,Thursday,12:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Male,1,"(44.28267, -72.73511)",1
+143576,VSP - B2 Derby,12/01/2013,Canaan,VT-102,2013,Sunday,0:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,No,Male,51,"(44.99119, -71.54239)",1
+147158,VSP - C1 Rutland,02/21/2014,West Haven,VT-22A,2014,Friday,20:00,Road Surface Condition(wet- icy- snow- slush- etc),No improper driving,Driver,Fatality,Yes,Male,59,"(43.643, -73.29831)",1
+134098,VSP - C1 Rutland,02/22/2013,Pittsfield,TOWN ROAD 0032,2013,Friday,23:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver,Fatality,No,Male,26,"(43.7626, -72.8165)",1
+149759,VSP - A1 Williston,07/30/2014,South Burlington,I-89,2014,Wednesday,23:00,Work zone (construction / maintenance / utility),,Pedestrian,Fatality,No,Male,61,"(44.44893, -73.16042)",1
+103481,VSP - B1 St. Johnsbury,06/20/2010,St. Johnsbury,RED VILLAGE RD.- ST. JOHNSBURY,2010,Sunday,0:00,None,Driving too fast for conditions,Driver/Owner,Fatality,No,Male,21,"(44.46894979, -71.94806354)",1
+103481,VSP - B1 St. Johnsbury,06/20/2010,St. Johnsbury,RED VILLAGE RD.- ST. JOHNSBURY,2010,Sunday,0:00,None,Driving too fast for conditions,Passenger,Fatality,No,Male,22,"(44.46894979, -71.94806354)",1
+103481,VSP - B1 St. Johnsbury,06/20/2010,St. Johnsbury,RED VILLAGE RD.- ST. JOHNSBURY,2010,Sunday,0:00,None,Driving too fast for conditions,Passenger,Fatality,No,Female,19,"(44.46894979, -71.94806354)",1
+176877,VSP - B2 Derby,02/08/2016,Coventry,I-91,2016,Monday,6:00,None,Unknown,Driver,Fatality,No,Female,26,"(44.87264, -72.17642)",1
+179903,VSP - A2 St. Albans,06/22/2016,Fairfield,TOWN ROAD 0014,2016,Wednesday,22:00,None,Other improper action,Driver/Owner,Fatality,No,Male,21,"(44.85044, -72.90507)",1
+101525,VSP - B1 St. Johnsbury,05/23/2010,Waterford,US-5,2010,Sunday,13:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,22,"(44.39435087, -72.02364885)",1
+103549,VSP - A1 Williston,07/23/2010,Williston,US-2,2010,Friday,23:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver,Fatality,No,Male,33,"(44.43457835, -73.0411375)",1
+108264,VSP - B1 St. Johnsbury,12/23/2010,Concord,US-2,2010,Thursday,7:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,79,"(44.43537651, -71.90578697)",1
+136971,VSP - B2 Derby,06/11/2013,Brownington,VT-5A,2013,Tuesday,21:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,No,Male,25,"(44.80377, -72.08527)",1
+161345,VSP - A2 St. Albans,07/25/2015,Georgia,TOWN ROAD 0005,2015,Saturday,11:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,71,"(44.72859, -73.1976)",1
+146492,VSP - C1 Rutland,01/30/2014,Middletown Springs,FAS 0138 (VT 140 TH),2014,Thursday,12:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,78,"(43.49608, -73.16651)",1
+145607,VSP - C1 Rutland,12/08/2013,Killington,FAS 0159,2013,Sunday,11:00,None,,Pedestrian,Fatality,No,Male,26,"(43.65164, -72.78967)",1
+130907,VSP - A2 St. Albans,12/01/2012,Highgate,VT-207,2012,Saturday,17:00,Unknown,No improper driving,Driver/Owner,Fatality,No,Female,36,"(44.92061, -73.0541)",1
+108349,VSP - C1 Rutland,12/07/2010,Clarendon,US-7,2010,Tuesday,10:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,77,"(43.50714, -72.96811)",1
+142518,VSP - C1 Rutland,09/15/2013,Mt. Holly,VT-103,2013,Sunday,2:00,None,Fatigued- asleep,Driver/Owner,Fatality,No,Male,33,"(43.44823, -72.84796)",1
+103552,VSP - B2 Derby,08/13/2010,Newport Town,VT-14,2010,Friday,14:00,Work zone (construction / maintenance / utility),,Pedestrian,Fatality,No,Male,33,"(44.91720838, -72.28794917)",1
+151593,VSP - C1 Rutland,06/21/2014,Pittsford,US-7,2014,Saturday,15:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,24,"(43.73452, -73.04019)",1
+141629,VSP - A3 Middlesex,09/29/2013,Moretown,MinCollector,2013,Sunday,4:00,None,Failure to keep in proper lane,Driver,Fatality,No,Female,24,"(44.28186, -72.66849)",1
+153794,VSP - A3 Middlesex,10/25/2014,Washington,TOWN ROAD 0001,2014,Saturday,12:00,None,Inattention,Driver/Owner,Fatality,No,Male,18,"(44.0668, -72.39884)",1
+128534,VSP - A1 Williston,09/24/2012,Eden,VT-100,2012,Monday,9:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,26,"(44.73732, -72.4695)",1
+151494,VSP - A3 Middlesex,07/09/2014,East Montpelier,US-2,2014,Wednesday,18:00,None,Made an improper turn,Driver/Owner,Fatality,No,Male,32,"(44.25853, -72.50202)",1
+127929,VSP - A3 Middlesex,07/01/2012,Marshfield,US-2,2012,Sunday,3:00,None,Driving too fast for conditions,Driver,Fatality,No,Male,63,"(44.29114, -72.40023)",1
+127930,VSP - A3 Middlesex,07/14/2012,Warren,TOWN ROAD 0036,2012,Saturday,16:00,None,Under the influence of medication/drugs/alcohol,Driver/Owner,Fatality,No,Male,62,"(44.10585, -72.85168)",1
+127931,VSP - A3 Middlesex,07/19/2012,Marshfield,US-2,2012,Thursday,14:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,74,"(44.33599, -72.37447)",1
+162495,VSP - A2 St. Albans,09/03/2015,Swanton,US-7,2015,Thursday,12:00,None,No improper driving,Driver/Owner,Fatality,Yes,Female,68,"(44.89143, -73.09096)",1
+162495,VSP - A2 St. Albans,09/03/2015,Swanton,US-7,2015,Thursday,12:00,None,No improper driving,Passenger,Fatality,No,Male,67,"(44.89143, -73.09096)",1
+162539,VSP - A1 Williston,09/26/2015,Buels Gore,VT-17,2015,Saturday,16:00,Rut- holes- bumps,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,56,"(44.21073, -72.93308)",1
+160270,VSP - A1 Williston,06/12/2015,Colchester,I-89,2015,Friday,20:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,Yes,Male,49,"(44.58882, -73.17074)",1
+162542,VSP - A1 Williston,10/06/2015,Bolton,US-2,2015,Tuesday,21:00,None,No improper driving,Driver,Fatality,Yes,Male,22,"(44.37249, -72.87607)",1
+151960,VSP - B1 St. Johnsbury,08/31/2014,Lunenburg,US-2,2014,Sunday,23:00,None,Failure to keep in proper lane,Driver,Fatality,No,Male,48,"(44.4649, -71.6542)",1
+126130,VSP - B1 St. Johnsbury,05/11/2012,Burke,TOWN ROAD 0021,2012,Friday,3:00,Shoulders (none- low- soft- high),Failure to keep in proper lane,Driver,Fatality,No,Male,24,"(44.56316, -71.94516)",1
+163031,VSP - C1 Rutland,09/18/2015,Pittsford,US-7,2015,Friday,5:00,None,No improper driving,Driver/Owner,Fatality,No,Male,44,"(43.75009, -73.04775)",1
+124218,VSP - A2 St. Albans,06/09/2012,Georgia,MinCollector,2012,Saturday,15:00,None,Driving too fast for conditions,Driver,Fatality,No,Male,44,"(44.70008, -73.09925)",1
+130270,VSP - B2 Derby,09/24/2012,Coventry,VT-14,2012,Monday,18:00,None,Failed to yield right of way,Driver/Owner,Fatality,No,Male,17,"(44.9057, -72.259)",1
+183844,VSP - B2 Derby,05/29/2016,Charleston,VT-105,2016,Sunday,16:00,None,Exceeded authorized speed limit,Passenger,Fatality,No,Male,26,"(44.89841, -72.0609)",1
+183844,VSP - B2 Derby,05/29/2016,Charleston,VT-105,2016,Sunday,16:00,None,Exceeded authorized speed limit,Passenger,Fatality,No,Female,29,"(44.89841, -72.0609)",1
+124214,VSP - D3 Royalton,05/12/2012,Royalton,I-89,2012,Saturday,12:00,None,Exceeded authorized speed limit,Driver,Fatality,No,Female,22,"(43.82264, -72.53045)",1
+119406,VSP - D3 Royalton,11/18/2011,Hartland,I-91,2011,Friday,23:00,None,Under the influence of medication/drugs/alcohol,Driver/Owner,Fatality,No,Male,57,"(43.52972, -72.39847)",1
+120768,VSP - A3 Middlesex,01/02/2012,Middlesex,US-2,2012,Monday,14:00,Road Surface Condition(wet- icy- snow- slush- etc),Under the influence of medication/drugs/alcohol,Driver,Fatality,No,Female,22,"(44.27225, -72.63589)",1
+120768,VSP - A3 Middlesex,01/02/2012,Middlesex,US-2,2012,Monday,14:00,Road Surface Condition(wet- icy- snow- slush- etc),Under the influence of medication/drugs/alcohol,Passenger,Fatality,No,Male,23,"(44.27225, -72.63589)",1
+114055,VSP - D1 Rockingham (VOID),07/17/2011,Windsor,I-91,2011,Sunday,19:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,57,"(43.44888, -72.40694)",1
+107321,VSP - A1 Williston,11/24/2010,Eden,TOWN ROAD 0021,2010,Wednesday,23:00,None,Driving too fast for conditions,Driver/Owner,Fatality,No,Male,26,"(44.72204902, -72.54108589)",1
+107532,VSP - B1 St. Johnsbury,11/17/2010,Burke,US-5,2010,Wednesday,2:00,Road Surface Condition(wet- icy- snow- slush- etc),Under the influence of medication/drugs/alcohol,Driver/Owner,Fatality,No,Male,21,"(44.62866984, -71.97077333)",1
+111901,VSP - A3 Middlesex,02/09/2011,Orange,US-302,2011,Wednesday,18:00,Other - Explain in Narrative,Driving too fast for conditions,Driver/Owner,Fatality,No,Female,48,"(44.14193161, -72.33301232)",1
+107615,VSP - C1 Rutland,11/27/2010,Mt. Holly,VT-155,2010,Saturday,16:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,Yes,Male,81,"(43.43746, -72.85921)",1
+161828,VSP - C1 Rutland,07/31/2015,Killington,US-4,2015,Friday,22:00,None,No improper driving,Driver,Fatality,Yes,Male,63,"(43.60749, -72.75135)",1
+125124,VSP - C2 New Haven,06/10/2012,New Haven,TOWN ROAD 0006,2012,Sunday,22:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,45,"(44.15506, -73.15902)",1
+107592,VSP - A1 Williston,12/26/2010,Burlington,MAIN ST.- BURLINGTON,2010,Sunday,21:00,None,No improper driving,Driver/Owner,Fatality,Yes,Female,44,"(44.475854, -73.21403094)",1
+117459,VSP - B3 Bradford,09/24/2011,Bradford,US-5,2011,Saturday,18:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,42,"(43.9921, -72.12795)",1
+115418,VSP - D3 Royalton,08/05/2011,Rochester,VT-73,2011,Friday,12:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,59,"(43.84798, -72.85216)",1
+126870,VSP - A2 St. Albans,08/22/2012,Fairfield,TOWN ROAD 0058,2012,Wednesday,9:00,None,Unknown,Driver/Owner,Fatality,No,Male,60,"(44.7895, -72.98367)",1
+153991,VSP - A1 Williston,11/28/2014,Huntington,FAS 0212,2014,Friday,21:00,Road Surface Condition(wet- icy- snow- slush- etc),Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Passenger,Fatality,No,Female,20,"(44.3049, -73.00862)",1
+185094,VSP - B2 Derby,05/18/2016,Brighton,VT-105,2016,Wednesday,15:00,None,Exceeded authorized speed limit,Driver/Owner,Fatality,No,Male,29,"(44.8157, -71.87868)",1
+152120,VSP - C1 Rutland,07/06/2014,Mt. Holly,VT-103,2014,Sunday,0:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,84,"(43.44636, -72.77384)",1
+100180,VSP - A3 Middlesex,01/25/2010,Montpelier,I-89,2010,Monday,3:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver,Fatality,Yes,Male,43,"(44.19170739, -72.57716591)",1
+100180,VSP - A3 Middlesex,01/25/2010,Montpelier,I-89,2010,Monday,3:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Passenger,Fatality,No,Female,62,"(44.19170739, -72.57716591)",1
+126908,VSP - D2 Brattleboro (VOID),08/19/2012,Jamaica,VT-30,2012,Sunday,15:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Female,62,"(43.11937, -72.8072)",1
+134501,VSP - A2 St. Albans,04/14/2013,Sheldon,TOWN ROAD 0001,2013,Sunday,2:00,Road Surface Condition(wet- icy- snow- slush- etc),Under the influence of medication/drugs/alcohol,Driver,Fatality,No,Male,20,"(44.90672, -72.97614)",1
+125920,VSP - A1 Williston,05/07/2012,Bolton,I-89,2012,Monday,7:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,29,"(44.37164, -72.87541)",1
+125920,VSP - A1 Williston,05/07/2012,Bolton,I-89,2012,Monday,7:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Female,29,"(44.37164, -72.87541)",1
+125920,VSP - A1 Williston,05/07/2012,Bolton,I-89,2012,Monday,7:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Male,1,"(44.37164, -72.87541)",1
+101201,VSP - A2 St. Albans,03/13/2010,South Hero,TOWN ROAD 0006,2010,Saturday,8:00,None,Technology Related Distraction,Passenger,Fatality,No,Male,55,"(44.65368678, -73.34619342)",1
+109419,VSP - C1 Rutland,01/18/2011,Wallingford,US-7,2011,Tuesday,9:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver,Fatality,Yes,Female,52,"(43.4069, -72.99432)",1
+101220,VSP - B2 Derby,04/30/2010,Albany,TOWN ROAD 0011,2010,Friday,7:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,20,"(44.72211032, -72.36391785)",1
+121464,VSP - C1 Rutland,01/22/2012,Wells,VT-30,2012,Sunday,19:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,72,"(43.44236, -73.196)",1
+121478,VSP - C1 Rutland,01/18/2012,Tinmouth,TOWN ROAD 0007,2012,Wednesday,16:00,None,Failure to keep in proper lane,Driver,Fatality,No,Male,46,"(43.45238, -73.02808)",1
+163240,VSP - B2 Derby,08/16/2015,Brighton,VT-114,2015,Sunday,12:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Male,4,"(44.78378, -71.91116)",1
+129705,VSP - A3 Middlesex,10/06/2012,Marshfield,US-2,2012,Saturday,6:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver,Fatality,No,Female,29,"(44.3299759, -72.37651316)",1
+129705,VSP - A3 Middlesex,10/06/2012,Marshfield,US-2,2012,Saturday,6:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Passenger,Fatality,No,Female,29,"(44.3299759, -72.37651316)",1
+163246,VSP - D1 Rockingham (VOID),08/23/2015,Landgrove,TOWN ROAD 0009,2015,Sunday,2:00,None,Fatigued- asleep,Driver,Fatality,Yes,Male,22,"(43.24773, -72.85491)",1
+163261,VSP - C1 Rutland,09/07/2015,Pawlet,VT-30,2015,Monday,15:00,None,,Bicycle,Fatality,No,Male,54,"(43.35228, -73.18174)",1
+105963,VSP - D3 Royalton,10/03/2010,Plymouth,MinCollector,2010,Sunday,15:00,None,Driving too fast for conditions,Driver/Owner,Fatality,No,Female,56,"(43.4679166, -72.69054185)",1
+163349,VSP - D1 Rockingham (VOID),08/09/2015,Westminster,MinCollector,2015,Sunday,19:00,None,Exceeded authorized speed limit,Driver/Owner,Fatality,No,Male,27,"(43.07276, -72.50987)",1
+163428,VSP - D1 Rockingham (VOID),07/25/2015,Weathersfield,I-91,2015,Saturday,11:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Male,22,"(43.35799, -72.42367)",1
+132178,VSP - C1 Rutland,11/26/2012,Rutland Town,US-7,2012,Monday,6:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,44,"(43.64547, -72.98511)",1
+102716,VSP - C1 Rutland,06/14/2010,Poultney,VT-31,2010,Monday,7:00,None,Exceeded authorized speed limit,Driver,Fatality,Yes,Male,27,"(43.4752426, -73.24237131)",1
+156586,VSP - B2 Derby,11/12/2014,Barton,US-5,2014,Wednesday,22:00,None,Disregarded traffic signs- signals- markings,Driver/Owner,Fatality,No,Male,28,"(44.78307, -72.21392)",1
+176814,VSP - C1 Rutland,12/12/2015,Wells,VT-30,2015,Saturday,17:00,None,Driving too fast for conditions,Driver,Fatality,No,Female,28,"(43.4271, -73.19668)",1
+132234,VSP - C2 New Haven,11/30/2012,Waltham,US-7,2012,Friday,7:00,None,,Pedestrian,Fatality,No,Male,65,"(44.16113, -73.23104)",1
+139271,VSP - A1 Williston,09/30/2013,Lowell,MinCollector,2013,Monday,9:00,Other - Explain in Narrative,Driving too fast for conditions,Driver/Owner,Fatality,No,Male,29,"(44.7647, -72.5195)",1
+183969,VSP - C3 Shaftsbury,04/01/2016,Sunderland,VT-7A,2016,Friday,11:00,None,No improper driving,Driver/Owner,Fatality,Yes,Female,74,"(43.117, -73.11198)",1
+101389,VSP - D2 Brattleboro (VOID),01/31/2010,Dummerston,I-91,2010,Sunday,16:00,None,,Pedestrian,Fatality,No,Female,75,"(42.96279257, -72.52738173)",1
+160415,VSP - B1 St. Johnsbury,07/04/2015,Lyndon,TOWN ROAD 0057,2015,Saturday,14:00,None,Fatigued- asleep,Driver/Owner,Fatality,No,Male,66,"(44.51085, -72.02688)",1
+142589,VSP - C1 Rutland,08/08/2013,Proctor,VT-3,2013,Thursday,8:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,88,"(43.6651, -73.02319)",1
+142555,VSP - B2 Derby,10/23/2013,Morgan,VT-111,2013,Wednesday,16:00,None,No improper driving,Driver/Owner,Fatality,No,Female,72,"(44.86469, -71.95539)",1
+142621,VSP - C2 New Haven,01/05/2014,Starksboro,TOWN ROAD 0005,2014,Sunday,11:00,None,Driving too fast for conditions,Driver,Fatality,No,Female,23,"(44.22785, -73.05223)",1
+128302,VSP - B1 St. Johnsbury,09/28/2012,Walden,TOWN ROAD 0001,2012,Friday,9:00,None,Unknown,Driver,Fatality,No,Male,55,"(44.46574, -72.29621)",1
+129047,VSP - B2 Derby,08/23/2012,Barton,FAS 0286 (VT 16 TH),2012,Thursday,1:00,None,Driving too fast for conditions,Driver,Fatality,No,Male,24,"(44.76331, -72.13145)",1
+145984,VSP - C1 Rutland,11/21/2013,Poultney,TOWN ROAD 0006,2013,Thursday,16:00,None,Fatigued- asleep,Passenger,Fatality,No,Female,84,"(43.51765, -73.20773)",1
+146018,VSP - B3 Bradford,02/14/2014,Fairlee,I-91,2014,Friday,10:00,Road Surface Condition(wet- icy- snow- slush- etc),Unknown,Driver,Fatality,Yes,Male,48,"(43.92134, -72.13289)",1
+161807,VSP - B1 St. Johnsbury,07/08/2015,Sheffield,I-91,2015,Wednesday,16:00,None,Failure to keep in proper lane,Driver,Fatality,No,Male,22,"(44.67312, -72.13277)",1
+108920,VSP - B1 St. Johnsbury,11/20/2010,Danville,TOWN ROAD 0115,2010,Saturday,9:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,73,"(44.40803603, -72.18025767)",1
+160506,VSP - A3 Middlesex,05/02/2015,Williamstown,MinCollector,2015,Saturday,16:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,53,"(44.08881, -72.51781)",1
+176373,VSP - B1 St. Johnsbury,03/05/2016,St. Johnsbury,RED VILLAGE RD.- ST. JOHNSBURY,2016,Saturday,4:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,23,"(44.45774, -71.94582)",1
+140247,VSP - A3 Middlesex,07/13/2013,Williamstown,VT-14,2013,Saturday,15:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,68,"(44.07832, -72.57283)",1
+164521,VSP - B2 Derby,11/30/2015,Coventry,TOWN ROAD 0045,2015,Monday,7:00,Unknown,Unknown,Driver/Owner,Fatality,No,Female,35,"(72.2144, -44.869)",1
+120141,VSP - D2 Brattleboro (VOID),01/03/2012,Jamaica,VT-30,2012,Tuesday,17:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver/Owner,Fatality,No,Male,50,"(43.10197, -72.79114)",1
+119060,VSP - B3 Bradford,10/03/2011,Groton,VT-232,2011,Monday,20:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,65,"(44.25373, -72.26682)",1
+150587,VSP - D3 Royalton,08/28/2014,Randolph,VT-14,2014,Thursday,15:00,None,,Pedestrian,Fatality,No,Male,14,"(43.92243, -72.55362)",1
+107387,VSP - C1 Rutland,12/22/2010,Shrewsbury,VT-103,2010,Wednesday,14:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,54,"(43.50105, -72.89865)",1
+174752,VSP - A3 Middlesex,01/13/2016,Cabot,US-2,2016,Wednesday,7:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,No,Female,47,"(44.36283, -72.30734)",1
+176447,VSP - C1 Rutland,12/29/2015,Killington,US-4,2015,Tuesday,14:00,Road Surface Condition(wet- icy- snow- slush- etc),No improper driving,Driver/Owner,Fatality,Yes,Male,51,"(43.6646, -72.8123)",1
+176447,VSP - C1 Rutland,12/29/2015,Killington,US-4,2015,Tuesday,14:00,Road Surface Condition(wet- icy- snow- slush- etc),No improper driving,Passenger,Fatality,No,Female,50,"(43.6646, -72.8123)",1
+176447,VSP - C1 Rutland,12/29/2015,Killington,US-4,2015,Tuesday,14:00,Road Surface Condition(wet- icy- snow- slush- etc),No improper driving,Passenger,Fatality,No,Male,51,"(43.6646, -72.8123)",1
+177532,VSP - D3 Royalton,04/10/2016,Bethel,I-89,2016,Sunday,4:00,None,Under the influence of medication/drugs/alcohol,Driver,Fatality,No,Male,23,"(43.87864, -72.61591)",1
+99927,VSP - A1 Williston,01/07/2010,Charlotte,TOWN ROAD 0008,2010,Thursday,15:00,None,Made an improper turn,Driver/Owner,Fatality,Yes,Female,76,"(44.333954, -73.22035677)",1
+183858,VSP - C3 Shaftsbury,05/30/2016,Shaftsbury,FAS 0112,2016,Monday,12:00,None,Driving too fast for conditions,Driver/Owner,Fatality,No,Male,37,"(42.94568, -73.25699)",1
+176151,VSP - C2 New Haven,01/20/2016,Bridport,VT-125,2016,Wednesday,15:00,None,No improper driving,Driver/Owner,Fatality,Yes,Male,66,"(43.99099, -73.3467)",1
+165177,VSP - D3 Royalton,10/14/2015,Hartland,I-91,2015,Wednesday,22:00,None,,Pedestrian,Fatality,No,Male,60,"(43.59457, -72.34831)",1
+183917,VSP - C1 Rutland,04/22/2016,Tinmouth,TOWN ROAD 0014,2016,Friday,20:00,None,,Pedestrian,Fatality,No,Male,58,"(43.46212, -73.08216)",1
+100000,VSP - B1 St. Johnsbury,03/10/2010,Lyndon,I-91,2010,Wednesday,11:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,85,"(44.53009831, -72.01488199)",1
+135574,VSP - A1 Williston,06/02/2013,Cambridge,VT-104,2013,Sunday,19:00,Unknown,Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,22,"(44.64155, -72.91389)",1
+158629,VSP - C2 New Haven,04/14/2015,Weybridge,TOWN ROAD 0003,2015,Tuesday,17:00,None,,Bicycle,Fatality,No,Male,55,"(44.04519, -73.19367)",1
+103353,VSP - B1 St. Johnsbury,05/27/2010,St. Johnsbury,US-5,2010,Thursday,1:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Female,25,"(44.48858691, -72.00715502)",1
+122135,VSP - A2 St. Albans,03/11/2012,Swanton,VT-105,2012,Sunday,3:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Passenger,Fatality,No,Male,21,"(44.8803, -73.02667)",1
+122135,VSP - A2 St. Albans,03/11/2012,Swanton,VT-105,2012,Sunday,3:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Passenger,Fatality,No,Male,24,"(44.8803, -73.02667)",1
+100757,VSP - A2 St. Albans,03/24/2010,Georgia,I-89,2010,Wednesday,18:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,21,"(44.70267723, -73.09538881)",1
+122313,VSP - D1 Rockingham (VOID),02/13/2012,Londonderry,VT-11,2012,Monday,7:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,No,Female,43,"(43.22649, -72.72786)",1
+103448,VSP - D2 Brattleboro (VOID),07/10/2010,Brookline,MinCollector,2010,Saturday,0:00,None,Under the influence of medication/drugs/alcohol,Passenger,Fatality,No,Male,21,"(42.99605657, -72.63709285)",1
+103312,VSP - D1 Rockingham (VOID),05/18/2010,Cavendish,VT-103,2010,Tuesday,9:00,None,No improper driving,Driver/Owner,Fatality,Yes,Male,81,"(43.35024348, -72.62621895)",1
+115444,VSP - B2 Derby,08/06/2011,Irasburg,TOWN ROAD 0005,2011,Saturday,17:00,None,Driving too fast for conditions,Driver/Owner,Fatality,No,Male,42,"(44.80513, -72.23146)",1
+164768,VSP - C1 Rutland,10/17/2015,Sudbury,VT-30,2015,Saturday,21:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver,Fatality,No,Male,20,"(43.82435, -73.1935)",1
+127011,VSP - D1 Rockingham (VOID),08/27/2012,Weathersfield,VT-131,2012,Monday,19:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,81,"(43.41687, -72.46198)",1
+117295,VSP - A2 St. Albans,10/16/2011,North Hero,US-2,2011,Sunday,12:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Female,80,"(44.88167, -73.2724)",1
+127066,VSP - D1 Rockingham (VOID),08/31/2012,Springfield,I-91,2012,Friday,18:00,None,Failure to keep in proper lane,Driver,Fatality,No,Male,56,"(43.32718, -72.41969)",1
+106246,VSP - D1 Rockingham (VOID),10/11/2010,Rockingham,US-5,2010,Monday,6:00,None,Exceeded authorized speed limit,Driver/Owner,Fatality,No,Male,22,"(43.16888213, -72.45780574)",1
+134963,VSP - A1 Williston,04/17/2013,Essex,VT-2A,2013,Wednesday,19:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,55,"(44.49877, -73.11325)",1
+139988,VSP - D1 Rockingham (VOID),09/09/2013,Cavendish,VT-103,2013,Monday,17:00,None,Failure to keep in proper lane,Driver,Fatality,No,Male,30,"(43.38079, -72.64421)",1
+140054,VSP - A1 Williston,07/28/2013,Jericho,VT-15,2013,Sunday,0:00,None,Failure to keep in proper lane,Driver,Fatality,Yes,Male,18,"(44.51, -72.971)",1
+165572,VSP - A3 Middlesex,11/25/2015,East Montpelier,US-2,2015,Wednesday,0:00,None,Under the influence of medication/drugs/alcohol,Driver,Fatality,No,Male,41,"(44.26942, -76.45866)",1
+108256,VSP - B1 St. Johnsbury,12/15/2010,Walden,TOWN ROAD 0002,2010,Wednesday,8:00,Rut- holes- bumps,Other improper action,Passenger,Fatality,No,Male,7,"(44.49014761, -72.25696541)",1
+123898,VSP - A3 Middlesex,03/04/2012,Marshfield,US-2,2012,Sunday,0:00,None,Failure to keep in proper lane,Driver,Fatality,No,Male,43,"(44.3164, -72.38763)",1
+121145,VSP - A1 Williston,01/19/2012,Underhill,FAS 0233,2012,Thursday,22:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Passenger,Fatality,No,Female,89,"(44.51251, -72.90828)",1
+105350,VSP - C3 Shaftsbury,09/26/2010,Rupert,MinCollector,2010,Sunday,16:00,None,Unknown,Driver/Owner,Fatality,No,Male,59,"(43.26507492, -73.2324589)",1
+135772,VSP - D3 Royalton,05/03/2013,Randolph,TOWN ROAD 0072,2013,Friday,18:00,None,Driving too fast for conditions,Driver,Fatality,No,Female,53,"(43.92519, -72.57918)",1
+110381,VSP - C1 Rutland,02/01/2011,Mendon,US-4,2011,Tuesday,12:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,36,"(43.6493, -72.90742)",1
+149884,VSP - A1 Williston,07/20/2014,Bolton,MinCollector,2014,Sunday,20:00,None,Operating vehicle in erratic- reckless- careless- negligent- or aggressive manner,Driver/Owner,Fatality,No,Male,25,"(44.37877, -72.91955)",1
+184101,VSP - A2 St. Albans,07/30/2016,Fairfield,TOWN ROAD 0034,2016,Saturday,15:00,None,Failure to keep in proper lane,Driver,Fatality,No,Male,51,"(44.82005, -72.86912)",1
+184116,VSP - D2 Brattleboro (VOID),04/26/2016,Dummerston,,2016,Tuesday,15:00,None,No improper driving,Passenger,Fatality,No,Female,88,"(42.90275, -72.60119)",1
+145395,VSP - A1 Williston,12/19/2013,Eden,VT-118,2013,Thursday,14:00,None,Unknown,Driver,Fatality,Yes,Male,68,"(44.73099, -72.56272)",1
+145395,VSP - A1 Williston,12/19/2013,Eden,VT-118,2013,Thursday,14:00,None,Unknown,Passenger,Fatality,No,Female,53,"(44.73099, -72.56272)",1
+176071,VSP - D1 Rockingham (VOID),01/24/2016,Londonderry,TOWN ROAD 0005,2016,Sunday,2:00,None,Driving too fast for conditions,Driver/Owner,Fatality,Yes,Male,25,"(43.21415, -72.81346)",1
+164931,VSP - A2 St. Albans,12/05/2015,Fairfax,TOWN ROAD 0031,2015,Saturday,8:00,Rut- holes- bumps,Driving too fast for conditions,Driver/Owner,Fatality,No,Male,48,"(44.6825, -72.9513)",1
+162656,VSP - D2 Brattleboro (VOID),09/04/2015,Marlboro,VT-9,2015,Friday,16:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,89,"(42.86609, -72.72238)",1
+138687,VSP - A2 St. Albans,07/18/2013,Sheldon,TOWN ROAD 0011,2013,Thursday,14:00,None,Driving too fast for conditions,Passenger,Fatality,No,Male,16,"(44.86676, -72.84579)",1
+105422,VSP - B2 Derby,08/29/2010,Troy,VT-100,2010,Sunday,2:00,None,Failure to keep in proper lane,Passenger,Fatality,No,Male,25,"(44.91267888, -72.36231646)",1
+134621,VSP - A2 St. Albans,02/20/2013,Sheldon,VT-105,2013,Wednesday,7:00,Road Surface Condition(wet- icy- snow- slush- etc),Driving too fast for conditions,Driver/Owner,Fatality,Yes,Male,65,"(44.91036, -72.88948)",1
+178701,VSP - A3 Middlesex,05/30/2016,Moretown,TOWN ROAD 0031,2016,Monday,19:00,None,Under the influence of medication/drugs/alcohol,Passenger,Fatality,No,Male,23,"(44.23931, -72.66389)",1
+140324,VSP - D2 Brattleboro (VOID),09/26/2013,Newfane,FAS 0106,2013,Thursday,16:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,54,"(42.94615, -72.66331)",1
+141782,VSP - A2 St. Albans,11/07/2013,Jay,VT-105,2013,Thursday,6:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,76,"(44.97073, -72.52492)",1
+153358,VSP - B2 Derby,08/02/2014,Derby,I-91,2014,Saturday,17:00,Road Surface Condition(wet- icy- snow- slush- etc),Exceeded authorized speed limit,Driver/Owner,Fatality,No,Male,51,"(44.93797, -72.16399)",1
+130715,VSP - B1 St. Johnsbury,11/14/2012,Danville,US-2,2012,Wednesday,7:00,None,Failure to keep in proper lane,Driver,Fatality,No,Male,26,"(44.4388, -72.07028)",1
+116262,VSP - A3 Middlesex,07/29/2011,Berlin,I-89,2011,Friday,4:00,None,,Pedestrian,Fatality,No,Male,71,"(44.18037, -72.57554)",1
+108657,VSP - A1 Williston,02/01/2011,Colchester,I-89,2011,Tuesday,15:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,44,"(44.56380827, -73.17958236)",1
+102349,VSP - B1 St. Johnsbury,06/08/2010,Sheffield,I-91,2010,Tuesday,0:00,None,No improper driving,Driver/Owner,Fatality,Yes,Female,28,"(44.67950861, -72.13168336)",1
+160381,VSP - A2 St. Albans,06/26/2015,Bakersfield,TOWN ROAD 0025,2015,Friday,12:00,None,,Passenger,Fatality,No,Male,15,"(44.80469, -72.78717)",1
+143891,VSP - C2 New Haven,12/02/2013,Ripton,VT-125,2013,Monday,20:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,55,"(43.95599, -72.99662)",1
+101270,VSP - B3 Bradford,04/20/2010,Newbury,I-91,2010,Tuesday,1:00,None,Failure to keep in proper lane,Driver,Fatality,Yes,Male,25,"(44.16424164, -72.08521799)",1
+116035,VSP - B2 Derby,09/07/2011,Coventry,TOWN ROAD 0020,2011,Wednesday,0:00,Unknown,Failure to keep in proper lane,Driver,Fatality,No,Male,57,"(44.87434, -72.18038)",1
+101317,VSP - C1 Rutland,02/23/2010,Rutland Town,Unknown,2010,Tuesday,14:00,Road Surface Condition(wet- icy- snow- slush- etc),,Pedestrian,Fatality,No,Female,82,"(43.58564, -72.97036)",1
+160565,VSP - C2 New Haven,06/17/2015,Ferrisburgh,TOWN ROAD 0006,2015,Wednesday,17:00,None,,Bicycle,Fatality,No,Male,60,"(44.23607, -73.24346)",1
+160567,VSP - D3 Royalton,06/15/2015,Bridgewater,US-4,2015,Monday,14:00,None,Followed too closely,Driver/Owner,Fatality,No,Male,62,"(43.60406, -72.73283)",1
+118886,VSP - A3 Middlesex,10/20/2011,Roxbury,VT-12,2011,Thursday,22:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,49,"(44.07824, -72.65027)",1
+132809,VSP - D2 Brattleboro (VOID),02/07/2013,Guilford,MinCollector,2013,Thursday,12:00,None,Fatigued- asleep,Passenger,Fatality,No,Female,94,"(42.77805, -72.60227)",1
+152394,VSP - C1 Rutland,07/02/2014,Mt. Holly,TOWN ROAD 0017,2014,Wednesday,1:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,55,"(43.44689, -72.85248)",1
+138796,VSP - B2 Derby,08/25/2013,Jay,VT-242,2013,Sunday,11:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,61,"(44.94597, -72.44402)",1
+111830,VSP - A2 St. Albans,04/30/2011,Sheldon,TOWN ROAD 0003,2011,Saturday,13:00,Road Surface Condition(wet- icy- snow- slush- etc),Failure to keep in proper lane,Driver/Owner,Fatality,No,Female,48,"(44.90137, -72.90859)",1
+111837,VSP - A2 St. Albans,04/18/2011,Grand Isle,VT-314,2011,Monday,15:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Female,53,"(44.70028, -73.33601)",1
+152396,VSP - A3 Middlesex,08/25/2014,Brookfield,I-89,2014,Monday,14:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,No,Male,64,"(44.0567, -72.60571)",1
+132559,VSP - C1 Rutland,12/14/2012,Killington,US-4,2012,Friday,16:00,None,Failure to keep in proper lane,Driver/Owner,Fatality,Yes,Male,47,"(43.61286, -72.75368)",1
+132812,VSP - D2 Brattleboro (VOID),01/28/2013,Jamaica,VT-30,2013,Monday,14:00,Road Surface Condition(wet- icy- snow- slush- etc),Under the influence of medication/drugs/alcohol,Driver/Owner,Fatality,Yes,Female,21,"(43.14517, -72.85494)",1
